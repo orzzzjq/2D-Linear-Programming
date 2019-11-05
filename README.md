@@ -1,4 +1,4 @@
-This is a course project for Computational Geometry & GPGPU in NUS SoC 2018 Summer Workshop.
+This is a course project for Computational Geometry & GPGPU in NUS SoC Summer Workshop 2018.
 
 **Linear Programming (LP)** is a technique for the optimization of a linear objective function, subject to linear inequality constraints. Its feasible region is a convex polytope, which is a set defined as the intersection of finitely many half-spaces. Each linear programming algorithm finds a point in the polyhedron where this function has the smallest (or largest) value if such a point exists.
 
