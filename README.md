@@ -4,4 +4,4 @@ This is a course project for Computational Geometry & GPGPU in NUS SoC Summer Wo
 
 We used CUDA\THRUST toolkit to solve the 2D Linear Programming problem on the GPU. This repo includes a parallel implementation of [**Migiddo's Algorithm**](https://sarielhp.org/teach/2004/b/webpage/lec/27_lp_2d.pdf) and an advanced version with some tricks called **V-Shape** that runs faster than the original one.
 
-Thank my teammates Xintong and Xinyi.
+Thanks to my friends Xintong and Xinyi.
